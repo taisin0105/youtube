@@ -1,0 +1,26 @@
+.div-tag
+{
+  background-color: rgb(33, 33, 33);
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 400px;
+}
+
+.paragraph1
+{
+  font-family: Arial;
+  color: white;
+  font-size: 25px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.paragraph2
+{
+  font-family: Arial;
+  color: grey;
+  width: 360px;
+  font-size: 15px;
+}

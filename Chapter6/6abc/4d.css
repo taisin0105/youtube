@@ -1,0 +1,53 @@
+.Bootstrap-button1
+  {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 6px;
+    transition: background-color 0.15s;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .Bootstrap-button1:hover
+  {
+    background-color: rgb(99, 60, 156);
+  }
+  .Bootstrap-button1:active
+  {
+    opacity: 0.7;
+  }
+
+  .Bootstrap-button2
+  {
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border-width: 1px;
+    border-color: rgb(108, 117, 125);
+    border-style: solid;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 13px;
+    transition: background-color 0.15s,color 0.15s;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .Bootstrap-button2:hover
+  {
+    background-color: rgb(108, 117, 125);
+    color: white;
+  }
+  .Bootstrap-button2:active
+  {
+    opacity: 0.7;
+  }
